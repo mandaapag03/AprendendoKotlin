@@ -19,6 +19,7 @@ fun main() {
 
     println("Lista")
     iterarSequencia(lista)
+    //lista[0] = 2 - erro de complilação, pois não é um mutable list
 
     // Array List
     val arrayList = arrayListOf( "a", "b", "c")
@@ -32,6 +33,7 @@ fun main() {
     )
     mutableList.add("Amanda")
     println("Mutable List")
+    iterarSequencia(mutableList)
 
 }
 
