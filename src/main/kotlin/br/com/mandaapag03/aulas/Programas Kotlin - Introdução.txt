@@ -1,3 +1,4 @@
+package br.com.mandaapag03.aulas
 //////////////////////////////////////////////////////
 fun cursoYT.cursoYT.main() {
     val kotlin = "🙂"
